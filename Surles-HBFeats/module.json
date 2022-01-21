@@ -1,0 +1,16 @@
+{
+    "name": "Surles-HBFeats",
+    "title": "Surles-HBFeats",
+    "description": "A module of homebrew feats",
+    "Author": "Surles",
+    "version": "1", 
+    "minimumcoreversion0": "0.9.0",
+    "packs": [
+        {
+            "name": "Surles-Feats",
+            "label": "Surles-Feats",
+            "path": "./packs/Surles-Feats.db",
+            "entity": "Item"
+        }
+    ]  
+}
