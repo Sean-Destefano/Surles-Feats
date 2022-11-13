@@ -3,7 +3,7 @@
     "title": "Surles-HBFeats",
     "description": "A module of homebrew feats",
     "Author": "Surles",
-    "version": "1.2", 
+    "version": "1.3", 
     "minimumcoreversion0": "0.9.0",
     "packs": [
         {
