@@ -10,7 +10,8 @@
             "name": "Surles-Feats",
             "label": "Surles-Feats",
             "path": "./packs/Surles-Feats.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "pf2e"
         }
     ], 
     "url": "https://github.com/Sean-Destefano/Surles-Feats", 
