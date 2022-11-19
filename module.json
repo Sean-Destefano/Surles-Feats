@@ -3,18 +3,18 @@
     "title": "Surles-HBFeats",
     "description": "A module of homebrew feats",
     "Author": "Surles",
-    "version": "v1.5", 
+    "version": "v1.6", 
     "minimumcoreversion0": "0.9.0",
     "packs": [
         {
             "name": "Surles-Feats",
             "label": "Surles-Feats",
-            "path": "./packs/Surles-Feats.db",
+            "path": "./Surles-HBFeats/packs/Surles-Feats.db",
             "entity": "Item",
             "system": "pf2e"
         }
     ], 
     "url": "https://github.com/Sean-Destefano/Surles-Feats", 
     "manifest": "https://raw.githubusercontent.com/Sean-Destefano/Surles-Feats/main/module.json",
-    "download": "https://github.com/Sean-Destefano/Surles-Feats/archive/refs/tags/v1.5.zip"
+    "download": "https://github.com/Sean-Destefano/Surles-Feats/archive/refs/tags/v1.6.zip"
 }
