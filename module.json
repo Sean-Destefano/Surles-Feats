@@ -3,13 +3,13 @@
     "title": "Surles HBFeats",
     "description": "A module of homebrew feats",
     "Author": "Surles",
-    "version": "1.8", 
+    "version": "1.9", 
     {
         "compatibility": {
           "minimum": 9,
           "verified": "10.290"
         }
-      }
+      },
       "relationships": {
         "systems": [
           {
@@ -34,5 +34,5 @@
     ], 
     "url": "https://github.com/Sean-Destefano/Surles-Feats", 
     "manifest": "https://raw.githubusercontent.com/Sean-Destefano/Surles-Feats/main/module.json",
-    "download": "https://github.com/Sean-Destefano/Surles-Feats/archive/refs/tags/1.8.zip"
+    "download": "https://github.com/Sean-Destefano/Surles-Feats/archive/refs/tags/1.9.zip"
 }
