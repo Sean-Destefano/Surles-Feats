@@ -34,7 +34,8 @@
             "label": "Surles-Feats",
             "path": "./Surles-HBFeats/packs/Surles-Feats.db",
             "entity": "Item",
-            "system": "pf2e"
+            "system": "pf2e",
+            "type": "Item"
         }
     ], 
     "url": "https://github.com/Sean-Destefano/Surles-Feats", 
