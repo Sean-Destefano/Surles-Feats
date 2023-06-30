@@ -6,11 +6,11 @@
       {
         "name": "Sean De Stefano (Surles)",
         "url": "",
-        "discord": "Surles#1111",
+        "discord": "urles",
         "flags": {}
       }
     ],
-    "version": "1.9.5",       
+    "version": "1.11.0",       
     "compatibility": {
       "minimum": 9,
       "verified": "10.290"
